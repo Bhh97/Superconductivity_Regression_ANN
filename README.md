@@ -2,7 +2,7 @@
 This repository contains a notebook which uses an Artificial Neural Network (ANN) to predict superconductivity, using the Keras API in TensorFlow. The project includes both an exploratory data analysis (EDA) and hyperparameter tuning.
 
 ## Dataset
-The dataset used in this project comes from the UCI Machine Learning Repository, and can be found here.
+The dataset used in this project comes from the UCI Machine Learning Repository, and can be found [here](https://archive.ics.uci.edu/dataset/464/superconductivty+data).
 
 ## Project Structure
 Exploratory Data Analysis: The notebook starts with a brief exploratory analysis of the dataset to understand the structure and characteristics of the data.
